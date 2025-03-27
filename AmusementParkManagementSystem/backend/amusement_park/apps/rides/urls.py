@@ -1,0 +1,1 @@
+URL patterns specific to ride management.
