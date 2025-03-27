@@ -1,0 +1,1 @@
+Django settings configured for production and development.
