@@ -1,0 +1,1 @@
+Real-time wait times component.
