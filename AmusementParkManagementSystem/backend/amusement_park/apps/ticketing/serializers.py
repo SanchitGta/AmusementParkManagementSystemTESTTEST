@@ -1,0 +1,1 @@
+Serialization of ticketing models for API.
