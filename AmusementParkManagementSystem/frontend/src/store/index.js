@@ -1,0 +1,1 @@
+Setting up Redux store.
